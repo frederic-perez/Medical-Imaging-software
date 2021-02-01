@@ -2,6 +2,7 @@
 
 List of medical applications, toolkits, tools, and more (sorted alphabetically):
 
+- [ADAS 3D](https://www.adas3d.com/) - Cardiac fibrosis imaging for the electrophysiology lab  
 - [aeva](https://simtk.org/projects/aeva-apps) - Annotation and Exchange of Virtual Anatomy
 - [ITK](https://itk.org/) - The Insight Toolkit
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images. It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
