@@ -13,3 +13,8 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [SlicerRT](https://slicerrt.github.io/) - Open-source radiation therapy research toolkit for 3D Slicer
 - [VolView](https://www.kitware.com/volview/)
 - [VTK](https://vtk.org/) - The Visualization Toolkit
+
+Great sites to look for software:
+
+- [I Do Imaging](https://idoimaging.com/)
+- [Medfloss.org](https://www.medfloss.org/)
