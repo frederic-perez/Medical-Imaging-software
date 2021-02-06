@@ -18,3 +18,8 @@ Great sites to look for software:
 
 - [I Do Imaging](https://idoimaging.com/)
 - [Medfloss.org](https://www.medfloss.org/)
+
+Datasets:
+
+- [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/)
+- [Sfikas’s GitHub repo medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
