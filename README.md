@@ -6,6 +6,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [aeva](https://simtk.org/projects/aeva-apps) - Annotation and Exchange of Virtual Anatomy
 - [ITK](https://itk.org/) - The Insight Toolkit
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images. It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
+- [ParaView](https://www.paraview.org/) “is an open-source, multi-platform data analysis and visualization application.”
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch)
 - [RadiAnt](http://www.radiantviewer.com/) - DICOM Viewer
 - [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html) “combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.”
