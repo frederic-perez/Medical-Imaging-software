@@ -5,6 +5,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [ADAS 3D](https://www.adas3d.com/) - Cardiac fibrosis imaging for the electrophysiology lab  
 - [aeva](https://simtk.org/projects/aeva-apps) - Annotation and Exchange of Virtual Anatomy
 - [ITK](https://itk.org/) - The Insight Toolkit
+- [ITK-SNAP](http://www.itksnap.org/) “is a software application used to segment structures in 3D medical images.”
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images. It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
 - [ParaView](https://www.paraview.org/) “is an open-source, multi-platform data analysis and visualization application.”
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch)
