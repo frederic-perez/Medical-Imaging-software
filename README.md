@@ -11,12 +11,18 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [ITK](https://itk.org/) - The Insight Toolkit “is an open-source, cross-platform library that provides developers with an extensive suite of software tools for image analysis.”
 - [MeshLab](https://www.meshlab.net), “the open source system for processing and editing 3D triangular meshes.”
 - [Mialab](http://mialab.org) “is a software toolkit for Medical Image Analysis.”
+- [MicroDicom](https://www.microdicom.com/), “application for primary processing and preservation of medical images in DICOM format.”
+- [MRIConvert](https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter) “is a medical image file conversion utility that converts DICOM files to NIfTI 1.1, FSL NIfTI, Analyze 7.5 , SPM99/Analyze, BrainVoyager, and MetaImage volume formats.”
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images. It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
 - [ParaView](https://www.paraview.org/) “is an open-source, multi-platform data analysis and visualization application.”
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch)
 - [RadiAnt](http://www.radiantviewer.com/) - DICOM Viewer
+- [Sante DICOM Viewer FREE](https://sante-dicom-viewer-free.software.informer.com/) - “Perform medical imaging operations for storing and distributing data. Open any DICOM file and view the structured content with options to browse it or search for specific elements according to custom parameters. Manage different modalities such as CT, MR, US, CR, NM, XA, MG, DX, etc.”
+- [Sante DICOM Viewer Lite](https://www.santesoft.com/win/sante-dicom-viewer-lite/sante-dicom-viewer-lite.html) “is a DICOM viewer aimed to patients and other users without experience in medical imaging.”
 - [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html) “combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.”
 - [SlicerRT](https://slicerrt.github.io/) - Open-source radiation therapy research toolkit for 3D Slicer
+- [vmtk](http://www.vmtk.org/), the Vascular Modeling Toolkit, “is a collection of libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis for image-based modeling of blood vessels.”
+- [V3D](https://v3d1.software.informer.com/) - A 3D/4D/5D Image Visualization & Analysis System for Bioimages & Surface Objects
 - [VolView](https://www.kitware.com/volview/) “is an open source, intuitive, interactive system for volume visualization that allows researchers to quickly explore and analyze complex 3D medical or scientific data on Windows, Mac and Linux computers.
 - [VTK](https://vtk.org/) - The Visualization Toolkit “is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.”
 
