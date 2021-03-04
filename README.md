@@ -5,6 +5,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [3D Slicer](https://www.slicer.org) “is an open source software platform for medical image informatics, image processing, and three-dimensional visualization.”
 - [ADAS 3D](https://www.adas3d.com/) - Cardiac fibrosis imaging for the electrophysiology lab  
 - [aeva](https://simtk.org/projects/aeva-apps) - Annotation and Exchange of Virtual Anatomy
+- [CMRSegTools](https://www.creatis.insa-lyon.fr/CMRSegTools/) - Cardiac MRI Segmentation analysis toolbox
 - [Fiji](https://fiji.sc) “is an image processing package — a “batteries-included” distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.”
 - [ImageJ](https://imagej.nih.gov/ij/) - Image Processing and Analysis in Java
 - [ITK-SNAP](http://www.itksnap.org/) “is a software application used to segment structures in 3D medical images.”
