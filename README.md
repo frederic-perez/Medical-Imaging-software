@@ -17,7 +17,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [MicroDicom](https://www.microdicom.com/), “application for primary processing and preservation of medical images in DICOM format.”
 - [MITK](https://www.mitk.org) - The Medical Imaging Interaction Toolkit “is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.” ([GitHub](https://github.com/MITK/MITK) repository)
 - [MRIConvert](https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter) “is a medical image file conversion utility that converts DICOM files to NIfTI 1.1, FSL NIfTI, Analyze 7.5 , SPM99/Analyze, BrainVoyager, and MetaImage volume formats.”
-- [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images. It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
+- [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images (not only MRI, but also CT images). It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
 - [ParaView](https://www.paraview.org/) “is an open-source, multi-platform data analysis and visualization application.”
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch), a 3D Slicer extension whose “main focus is high-performance volumetric registration of medical images.”
 - [RadiAnt](http://www.radiantviewer.com/) - DICOM Viewer
