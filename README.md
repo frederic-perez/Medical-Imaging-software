@@ -39,5 +39,6 @@ Great sites to look for software:
 Datasets:
 
 - [Adrian Dalca’s GitHub repo medical-datasets](https://github.com/adalca/medical-datasets)
+- [CIBC-Internal’s GitHub repo Seg3DData](https://github.com/CIBC-Internal/Seg3DData)
 - [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/)
 - [Sfikas’s GitHub repo medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
