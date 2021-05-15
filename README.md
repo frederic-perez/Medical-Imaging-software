@@ -20,7 +20,6 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images—despite its name, it visualizes not only MRI, but also CT images (and even VTK files). It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.”
 - [ParaView](https://www.paraview.org/) “is an open-source, multi-platform data analysis and visualization application.”
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch), a 3D Slicer extension whose “main focus is high-performance volumetric registration of medical images.”
-- [RadiAnt](http://www.radiantviewer.com/) - DICOM Viewer
 - [Sante DICOM Viewer FREE](https://sante-dicom-viewer-free.software.informer.com/) - “Perform medical imaging operations for storing and distributing data. Open any DICOM file and view the structured content with options to browse it or search for specific elements according to custom parameters. Manage different modalities such as CT, MR, US, CR, NM, XA, MG, DX, etc.”
 - [Sante DICOM Viewer Lite](https://www.santesoft.com/win/sante-dicom-viewer-lite/sante-dicom-viewer-lite.html) “is a DICOM viewer aimed to patients and other users without experience in medical imaging.”
 - [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html) “combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.”
