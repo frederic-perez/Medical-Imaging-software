@@ -13,6 +13,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [ITK-SNAP](http://www.itksnap.org/) “is a software application used to segment structures in 3D medical images.”
 - [ITK](https://itk.org/) - The Insight Toolkit “is an open-source, cross-platform library that provides developers with an extensive suite of software tools for image analysis.”
 - [MeshLab](https://www.meshlab.net), “the open source system for processing and editing 3D triangular meshes.”
+- [Meshtool](https://github.com/ElsevierSoftwareX/SOFTX_2019_291) - A mesh manipulation utility
 - [Mialab](http://mialab.org) “is a software toolkit for Medical Image Analysis.”
 - [MicroDicom](https://www.microdicom.com/), “application for primary processing and preservation of medical images in DICOM format.”
 - [MITK](https://www.mitk.org) - The Medical Imaging Interaction Toolkit “is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.” » [GitHub](https://github.com/MITK/MITK) repository
