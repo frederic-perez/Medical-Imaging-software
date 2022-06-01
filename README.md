@@ -7,6 +7,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [aeva](https://simtk.org/projects/aeva-apps) - Annotation and Exchange of Virtual Anatomy
 - [ami](https://github.com/FNNDSC/ami) - Medical Imaging Javascript Toolkit
 - [CMRSegTools](https://www.creatis.insa-lyon.fr/CMRSegTools/) - Cardiac MRI Segmentation analysis toolbox
+- [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer, by M. Migliore and M. Westphal
 - [Fiji](https://fiji.sc) “is an image processing package — a “batteries-included” distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.”
 - [ImageJ](https://imagej.nih.gov/ij/) - Image Processing and Analysis in Java
 - [iMSTK](https://www.imstk.org/) - The Interactive Medical Simulation Toolkit is “a free & open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations.”
