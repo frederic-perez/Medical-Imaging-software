@@ -11,11 +11,11 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [Fiji](https://fiji.sc) “is an image processing package — a “batteries-included” distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.”
 - [ImageJ](https://imagej.nih.gov/ij/) - Image Processing and Analysis in Java
 - [iMSTK](https://www.imstk.org/) - The Interactive Medical Simulation Toolkit is “a free & open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations.”
-- [ITK-SNAP](http://www.itksnap.org/) “is a software application used to segment structures in 3D medical images.”
+- [ITK-SNAP](http://www.itksnap.org/) (⚠ not https) “is a software application used to segment structures in 3D medical images.”
 - [ITK](https://itk.org/) - The Insight Toolkit “is an open-source, cross-platform library that provides developers with an extensive suite of software tools for image analysis.”
 - [MeshLab](https://www.meshlab.net), “the open source system for processing and editing 3D triangular meshes.”
 - [Meshtool](https://github.com/ElsevierSoftwareX/SOFTX_2019_291) - A mesh manipulation utility
-- [Mialab](http://mialab.org) “is a software toolkit for Medical Image Analysis.”
+- [Mialab](https://mialab.org) “is a software toolkit for Medical Image Analysis.”
 - [MicroDicom](https://www.microdicom.com/), “application for primary processing and preservation of medical images in DICOM format.”
 - [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit “is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.” » [GitHub](https://github.com/MITK/MITK) repository
 - [MRIConvert](https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter) “is a medical image file conversion utility that converts DICOM files to NIfTI 1.1, FSL NIfTI, Analyze 7.5, SPM99/Analyze, BrainVoyager, and MetaImage volume formats.”
@@ -28,7 +28,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [Segment](https://medviso.com/download2/) by Medviso, is “a comprehensive software package for medical image analysis, widely used in research. Segment is developed with cardiovascular MRI (CMR) in mind [...]” » [GitHub](https://github.com/Cardiac-MR-Group-Lund/segment-open) repository
 - [SlicerRT](https://slicerrt.github.io/) - Open-source radiation therapy research toolkit for 3D Slicer
 - [V3D](https://v3d1.software.informer.com/) - A 3D/4D/5D Image Visualization & Analysis System for Bioimages & Surface Objects
-- [vmtk](http://www.vmtk.org/), the Vascular Modeling Toolkit, “is a collection of libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis for image-based modeling of blood vessels.”
+- [vmtk](http://www.vmtk.org/) (⚠ not https), the Vascular Modeling Toolkit, “is a collection of libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis for image-based modeling of blood vessels.”
 - [VolView](https://www.kitware.com/volview/) “is an open source, intuitive, interactive system for volume visualization that allows researchers to quickly explore and analyze complex 3D medical or scientific data on Windows, Mac and Linux computers.
 - [VTK](https://vtk.org/) - The Visualization Toolkit “is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.”
 
