@@ -26,6 +26,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [Sante DICOM Viewer Lite](https://www.santesoft.com/win/sante-dicom-viewer-lite/sante-dicom-viewer-lite.html) “is a DICOM viewer aimed to patients and other users without experience in medical imaging.”
 - [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html) “combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.”
 - [Segment](https://medviso.com/download2/) by Medviso, is “a comprehensive software package for medical image analysis, widely used in research. Segment is developed with cardiovascular MRI (CMR) in mind [...]” » [GitHub](https://github.com/Cardiac-MR-Group-Lund/segment-open) repository
+- [Slicer SALT](https://salt.slicer.org/) “is the dissemination vehicle of powerful shape analysis methodology based on 3D Slicer open-source software”
 - [SlicerRT](https://slicerrt.github.io/) - Open-source radiation therapy research toolkit for 3D Slicer
 - [V3D](https://v3d1.software.informer.com/) - A 3D/4D/5D Image Visualization & Analysis System for Bioimages & Surface Objects
 - [vmtk](http://www.vmtk.org/) (⚠ not https), the Vascular Modeling Toolkit, “is a collection of libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis for image-based modeling of blood vessels.”
