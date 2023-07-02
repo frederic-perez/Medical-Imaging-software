@@ -15,7 +15,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [ITK](https://itk.org/) - The Insight Toolkit “is an open-source, cross-platform library that provides developers with an extensive suite of software tools for image analysis.”
 - [MeshLab](https://www.meshlab.net), “the open source system for processing and editing 3D triangular meshes.”
 - [Meshtool](https://github.com/ElsevierSoftwareX/SOFTX_2019_291) - A mesh manipulation utility
-- [Mialab](https://mialab.org) “is a software toolkit for Medical Image Analysis.”
+- [MIALab](https://github.com/ubern-mia/MIALab) (Medical Image Analysis Laboratory)
 - [MicroDicom](https://www.microdicom.com/), “application for primary processing and preservation of medical images in DICOM format.”
 - [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit “is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.” » [GitHub](https://github.com/MITK/MITK) repository
 - [MRIConvert](https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter) “is a medical image file conversion utility that converts DICOM files to NIfTI 1.1, FSL NIfTI, Analyze 7.5, SPM99/Analyze, BrainVoyager, and MetaImage volume formats.”
