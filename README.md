@@ -30,7 +30,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [SlicerRT](https://slicerrt.github.io/) - Open-source radiation therapy research toolkit for 3D Slicer
 - [V3D](https://v3d1.software.informer.com/) - A 3D/4D/5D Image Visualization & Analysis System for Bioimages & Surface Objects
 - [vmtk](http://www.vmtk.org/) (⚠ not https), the Vascular Modeling Toolkit, “is a collection of libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis for image-based modeling of blood vessels.”
-- [VolView](https://www.kitware.com/volview/) “is an open source, intuitive, interactive system for volume visualization that allows researchers to quickly explore and analyze complex 3D medical or scientific data on Windows, Mac and Linux computers.
+- [VolView](https://www.kitware.com/volview/) “is an open source radiological viewer developed for clinical professionals. With VolView, you can have a deeper visual understanding of your data through interactive, cinematic volume rendering and easily visualize your DICOM data in 3D. Since VolView runs in your browser, you don’t need to install software and your data stays securely on your machine.”
 - [VTK](https://vtk.org/) - The Visualization Toolkit “is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.”
 
 Great sites to look for software:
