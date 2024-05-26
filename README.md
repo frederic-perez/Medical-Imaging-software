@@ -9,7 +9,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [CMRSegTools](https://www.creatis.insa-lyon.fr/CMRSegTools/) - Cardiac MRI Segmentation analysis toolbox
 - [F3D](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer, by M. Migliore and M. Westphal
 - [Fiji](https://fiji.sc) “is an image processing package — a “batteries-included” distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.”
-- [ImageJ](https://imagej.nih.gov/ij/) - Image Processing and Analysis in Java
+- [ImageJ](https://imagej.net/ij/) - Image Processing and Analysis in Java
 - [iMSTK](https://www.imstk.org/) - The Interactive Medical Simulation Toolkit is “a free & open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations.”
 - [ITK-SNAP](http://www.itksnap.org/) (⚠ not https) “is a software application used to segment structures in 3D medical images.”
 - [ITK](https://itk.org/) - The Insight Toolkit “is an open-source, cross-platform library that provides developers with an extensive suite of software tools for image analysis.”
