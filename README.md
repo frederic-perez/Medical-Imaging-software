@@ -24,7 +24,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch), a 3D Slicer extension whose “main focus is high-performance volumetric registration of medical images.”
 - [Sante DICOM Viewer FREE](https://sante-dicom-viewer-free.software.informer.com/) - “Perform medical imaging operations for storing and distributing data. Open any DICOM file and view the structured content with options to browse it or search for specific elements according to custom parameters. Manage different modalities such as CT, MR, US, CR, NM, XA, MG, DX, etc.”
 - [Sante DICOM Viewer Lite](https://www.santesoft.com/win/sante-dicom-viewer-lite/sante-dicom-viewer-lite.html) “is a DICOM viewer aimed to patients and other users without experience in medical imaging.”
-- [Seg3D](https://www.sci.utah.edu/cibc-software/seg3d.html) “combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.”
+- [Seg3D](https://www.sci.utah.edu/software/seg3d) “combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.”
 - [Segment](https://medviso.com/download2/) by Medviso, is “a comprehensive software package for medical image analysis, widely used in research. Segment is developed with cardiovascular MRI (CMR) in mind [...]” » [GitHub](https://github.com/Cardiac-MR-Group-Lund/segment-open) repository
 - [Slicer SALT](https://salt.slicer.org/) “is the dissemination vehicle of powerful shape analysis methodology based on 3D Slicer open-source software”
 - [SlicerRT](https://slicerrt.github.io/) - Open-source radiation therapy research toolkit for 3D Slicer
@@ -36,7 +36,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 Great sites to look for software:
 
 - [I Do Imaging](https://idoimaging.com/)
-- [Medfloss.org](https://www.medfloss.org/)
+- (medfloss.org was sunset in August 2024, after more than a decade of listing medical free software)
 
 Datasets:
 
