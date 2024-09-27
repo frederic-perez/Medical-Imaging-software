@@ -18,7 +18,7 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 - [MIALab](https://github.com/ubern-mia/MIALab) (Medical Image Analysis Laboratory)
 - [MicroDicom](https://www.microdicom.com/), “application for primary processing and preservation of medical images in DICOM format.”
 - [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - The Medical Imaging Interaction Toolkit “is a free open-source software system for development of interactive medical image processing software. MITK combines the Insight Toolkit (ITK) and the Visualization Toolkit (VTK) with an application framework.” » [GitHub](https://github.com/MITK/MITK) repository
-- [MRIConvert](https://idoimaging.com/programs/214) “is a medical image file conversion utility that converts DICOM files to NIfTI 1.1, FSL NIfTI, Analyze 7.5, SPM99/Analyze, BrainVoyager, and MetaImage volume formats.”
+- [MRIConvert](https://www.softpedia.com/get/Science-CAD/MRIConvert.shtml) “is a medical image file conversion utility that converts DICOM files to NIfTI 1.1, FSL NIfTI, Analyze 7.5, SPM99/Analyze, BrainVoyager, and MetaImage volume formats.”
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl/) - Viewer for medical images—despite its name, it visualizes not only MRI, but also CT images (and even VTK files). It “includes a graphical interface for dcm2nii to convert DICOM images to NIfTI format.” » [MediaWiki](https://www.nitrc.org/plugins/mwiki/index.php/mricrogl:MainPage) · [Forums](https://www.nitrc.org/forum/?group_id=889) · [Video-tutorials by Chris Rorden](https://www.youtube.com/user/pangeaist/videos) · Chris Rorden’s [blog on troubleshooting](https://github.com/neurolabusc/blog/blob/main/GL-troubleshooting/README.md) with stuff of user preferences · [MRIcroGL’s overview](https://andysbrainbook.readthedocs.io/en/latest/MRIcroGL/MRIcroGL_Overview.html)
 - [ParaView](https://www.paraview.org/) “is an open-source, multi-platform data analysis and visualization application.”
 - [Plastimatch](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/Plastimatch), a 3D Slicer extension whose “main focus is high-performance volumetric registration of medical images.”
@@ -35,8 +35,8 @@ List of medical applications, toolkits, tools, and more (sorted alphabetically):
 
 Great sites to look for software:
 
-- [I Do Imaging](https://idoimaging.com/)
-- (medfloss.org was sunset in August 2024, after more than a decade of listing medical free software)
+- (I Do Imaging (idoimaging.com) has ben deprecated here due to security concerns.) <!--[I Do Imaging](https://idoimaging.com/)-->
+- (medfloss.org was sunset in August 2024, after more than a decade of listing medical free software.)
 
 Datasets:
 
